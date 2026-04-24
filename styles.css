@@ -5,3 +5,28 @@
     box-sizing: border-box;
     font-family: 'roboto', sans-serif;
 }
+
+nav {
+height: 80px;
+display: flex;
+}
+
+nav{
+    height: 80px;
+    display: flex;
+}
+
+.nav__container {
+    width: 100%;
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+ul {
+    display: flex;
+}
+
+li {
+list-style-type: none;
+}
