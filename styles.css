@@ -207,10 +207,10 @@ header {
 }
 
 .header__img--wrapper {
-    width: 100%;
-    height: 100%;
-    max-width: 50vh;
-    padding: 20px;
+    width:100%;
+    height:100%;
+    max-width:50vh;
+    padding:20px;
  
   /* Added this after the tutorial to 
   show it over the wave on larger screens */
@@ -249,7 +249,7 @@ HIGHLIGHTS
 
 #highlights:after,
 #highlights:before {
-  background: url('assets/wave.svg');
+  background:url (PE assets/wave.svg);
   content: "";
   position: absolute;
   width: 101vw;
